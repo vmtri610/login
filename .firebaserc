@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "simplechat-dc456": {
+      "hosting": {
+        "login": [
+          "simplechat-dc456"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "simplechat-dc456"
+  }
+}
